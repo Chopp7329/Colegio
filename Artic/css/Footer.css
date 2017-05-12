@@ -1,0 +1,37 @@
+footer{
+  background-color: #162538;
+  color:white;
+  height: 500px;
+  text-align: center;
+  clear: both;
+}
+footer address{
+  color: #eeeeee;
+
+}
+h3{
+  padding-top: 3rem;
+
+}
+footer>p{
+  margin-top: 5rem;
+  font-size: 14px;
+  color: white;
+}
+#pad{
+  margin-top: 2rem;
+}
+h4{
+  margin-top: 2rem;
+}
+footer a{
+  display: inline-block;
+  margin-left:1.5rem;
+  font-size: 2rem;
+  text-decoration:none;
+  color: #eeeeee;
+
+}
+#alto{
+  height: 500px;
+}

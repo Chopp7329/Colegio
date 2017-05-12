@@ -1,0 +1,57 @@
+
+
+section>div{
+
+  height: 550px;
+  background-color: #50A4E2;
+  width: 100%;
+}
+
+#info{
+  position: absolute;
+  height: 455px;
+  width: 50%;
+  margin-left: 50%;
+  background: white;
+  display: inline;
+  text-align: center;
+
+}
+#img{
+  position: absolute;
+  height: 455px;
+  width: 50%;
+  background: white;
+  text-align: center;
+
+}
+
+div figure{
+  margin: 50px 0 0 0 ;
+  padding: 0;
+
+}
+h1{
+  padding: 5px;
+  margin-top: 2rem;
+  font-size: 35px;
+  border-bottom:1px solid;
+  color: #162538;
+}
+p{
+  font-size: 20px;
+  color: #253447;
+  margin-bottom: 3.5rem;
+}
+section>div >div>a{
+  text-decoration: none;
+  color: #fff;
+  background-color: #162538;
+  padding: 1.5rem;
+  font-size: 20px;
+  border-radius: 5%;
+}
+section a:hover{
+  background-color: #50A4E2;
+  transition: 0.9s;
+}

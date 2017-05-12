@@ -1,0 +1,38 @@
+section>div>figure{
+margin: -33px 0 0 0;
+}
+section>figure{
+  margin: 4rem 0 2rem 7.5rem;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background-color: #eeeeee;
+}
+figcaption{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+figure a{
+  text-decoration: none;
+  color:White;
+  background-color: #162538;
+  padding: 1rem;
+
+}
+figure>a:hover{
+  background-color: #50A4E2;
+  transition: 1s;
+}
+figure>img{
+  margin-top: 2rem;
+}
+#float{
+display: inline-block;
+}
+
+section>figure>a{
+      border-radius: 10%;
+}
+figure{
+      border-radius: 10%;
+}

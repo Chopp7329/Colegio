@@ -1,0 +1,31 @@
+.container{
+  width: 80%;
+  margin: 50px auto;
+  height: 2500px;
+  background: #fff;
+}
+div h2{
+  font-size: 40px;
+  text-align: center;
+  padding: 30px;
+  background-color: #253447;
+  color:#fff;
+}
+div h3{
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+  background-color: #253447;
+  color:#fff;
+}
+div p{
+  padding: 20px;
+  font-size: 20px;
+}
+div img{
+  margin-left: 24%;
+  padding: 15px;
+}
+#historia{
+  margin-left: 12.5%;
+}

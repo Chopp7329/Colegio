@@ -1,0 +1,167 @@
+.Portada{
+  height: 600px;
+  background-color: white;
+  width: 100%;
+}
+#img{
+  width: 100%;
+}
+section figure{
+  border-radius: 0;
+  width: 100%;
+  margin: 0;
+  background-color: white;
+  color: #162538;
+}
+figcaption{
+    display: inline-block;
+    font-size: 20px;
+    margin: 0rem 3rem 2rem 0;
+}
+
+section figure img{
+vertical-align:bottom;
+padding-top: 3rem;
+padding-left: 2rem;
+}
+.Conocimientos{
+  height: 350px;
+  width: 48%;
+  background: gray;
+  text-align: left;
+  background-color: #253447;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  margin-top: 2rem;
+}
+Section ul{
+  margin-left: 0rem;
+  margin-top: 1.5rem;
+  font-size: 20px;
+  color: #fff;
+  display: inline-block;
+}
+.Areas{
+  height: 350px;
+  width: 48%;
+  margin-left: 3.4rem;
+  margin-top: 2rem;
+  background: gray;
+  text-align: left;
+  background-color: #253447;
+  position: absolute;
+  display: inline-block;
+}
+
+.Valores{
+  height: 400px;
+  width: 49%;
+  background: gray;
+  text-align: left;
+  margin-left: 26%;
+  margin-top: 2rem;
+  background-color: #253447;
+  color:black;
+
+}
+#ul{
+  color:#fff;
+  margin-left: 0;
+}
+section li{
+  padding: 5px;
+
+}
+section h2{
+text-align: center;
+}
+
+
+.Flujograma{
+  margin-top: 2rem;
+  margin-bottom:2rem;
+  height: 110px;
+  background-color: white;
+  text-align: center;
+  padding-top: 5rem;
+
+}
+div a{
+  background-color: #162538;
+  color: #fff;
+  text-decoration: none;
+  padding: 25px 75px 25px 75px;
+  font-size: 25px;
+  border-radius: 5%;
+}
+div a:hover{
+  background-color: #50A4E2;
+
+  transition: 0.7s;
+}
+#civil{
+  height:440px;
+}
+#arqui{
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.Conocimientos{
+  height: 820px;
+  background-color: #eee;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+figure{
+  display: inline-block;
+
+  position: relative;
+}
+figure img{
+  margin: 20px 40px 0 40px;
+  border-radius: 50%;
+}
+h2{
+  padding-top: 20px;
+  padding-bottom: 80px;
+  font-size: 30px;
+  color: #162538;
+
+}
+figure:hover{
+ transition: 0.7s;
+ background: #50A4E2;
+ box-shadow: 3px 3px 10px gray;
+ color: white;
+}
+.alto{
+  height: 100px
+}
+figcaption{
+  font-size: 20px;
+  text-align: center;
+
+}
+*/

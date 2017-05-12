@@ -1,0 +1,58 @@
+body{
+  font-family: arial;
+}
+section >div>div{
+  background-color: #eee;
+  height: 600px;
+
+}
+figure{
+  margin-top: 200px;
+  float: left;
+  padding: 0;
+  width: 300px;
+  height: 300px;;
+  background-color: #162538;
+  margin-left: 7%;
+  border-radius: 5%;
+  display: inline;
+}
+figure img{
+  border-radius: 5% 5% 0 0;
+}
+figcaption{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 25px;
+  color:#fff;
+}
+figure:hover{
+  background-color: #50A4E2;
+  cursor:hand;
+  transition: 0.7s;
+
+}
+section h3{
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  margin-left: 44%;
+  font-size: 30px;
+  margin-top: 3rem;
+}
+section>div{
+  height: 700px;
+  background-color: #50A4E2;
+}
+#salud{
+  margin-left: 39%;
+}
+#admin{
+  margin-left: 37%;
+}
+#social{
+    margin-left: 40%;
+}
+#soc{
+  margin-top: 16px;
+}
